@@ -1,0 +1,2 @@
+# 📑 Évenement aléatoire
+
