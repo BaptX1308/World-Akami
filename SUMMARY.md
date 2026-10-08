@@ -34,6 +34,7 @@
       * [🐩 Canissebelle](uhc/undertale-uhc/roles/monstres/canissebelle.md)
       * [💡 Glyde](uhc/undertale-uhc/roles/monstres/glyde.md)
       * [👗 Mad Mew Mew](uhc/undertale-uhc/roles/monstres/mad-mew-mew.md)
+      * [🐢 Gerson Boom](uhc/undertale-uhc/roles/monstres/gerson-boom.md)
     * [💛 Solitaires](uhc/undertale-uhc/roles/solitaires/README.md)
       * [🌻 Flowey](uhc/undertale-uhc/roles/solitaires/flowey/README.md)
         * [💻 Omega Flowey](uhc/undertale-uhc/roles/solitaires/flowey/omega-flowey.md)
