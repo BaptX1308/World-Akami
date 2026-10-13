@@ -23,7 +23,7 @@ Liste des effets : \
 \- Speed \
 \- Résistance \
 \- 2 Coeur en plus \
-\- Une information permettant de savoir combien d'Humains se trouve proche de lui &#x20;
+\- Une information permettant de si il y à des Humains ou non autour de lui (30 block)&#x20;
 {% endhint %}
 
 <figure><img src="../../../../.gitbook/assets/temmie.gif" alt=""><figcaption></figcaption></figure>
